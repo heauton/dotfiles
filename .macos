@@ -62,7 +62,7 @@ sublime-text vlc discord obs handbrake zoom betterzip avibrazil-rdm \
 qlcolorcode qlmarkdown qlstephen quicklook-json webpquicklook \
 suspicious-package qlvideo spotify focus dropbox front slack openaudible \
 todoist audacity docker another-redis-desktop-manager loopback kid3 \
-basecamp fig cleanmymac numi cleanshot pixelsnap pdf-expert
+basecamp fig cleanmymac numi cleanshot pixelsnap centered
 
 echo "Generating a new SSH key for GitHub"
 ssh-keygen -t ed25519 -C "29621109+heauton@users.noreply.github.com" -f ~/.ssh/id_ed25519
@@ -891,7 +891,10 @@ printf "TODO:\n\
 install: \n\
   iA Writer (App Store) \n\
   Magnet (App Store) \n\
+  Movist (App Store) \n\
   Logitech Options \n\
+  Vundle (GitHub) \n\
+  PDF Expert (App Store for license) \n\
 \n\
 Restart Terminal.app\n\
 copy git config from your backup/re-login \n\

@@ -18,6 +18,7 @@
 [push]
   default = current
 [core]
+  editor = code --wait
   pager = delta --theme="night-owlish"
 	excludesfile = /Users/eunsangernie/.gitignore_global
 [interactive]
